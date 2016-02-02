@@ -1,0 +1,26 @@
+{
+  "name": "konna",
+  "version": "0.0.0",
+  "description": "Konna framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lellansin/Konna.git"
+  },
+  "author": "lellansin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lellansin/Konna/issues"
+  },
+  "homepage": "https://github.com/Lellansin/Konna#readme",
+  "dependencies": {
+    "dnode": "^1.2.1",
+    "install": "^0.1.8",
+    "npm": "^2.12.1",
+    "socket.io": "^1.3.6",
+    "socket.io-client": "^1.3.6"
+  }
+}

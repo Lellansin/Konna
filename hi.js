@@ -1,0 +1,1 @@
+module.exports = function(cb) { var arr = []; for(var i = 0; i < 10000; i++) { arr.push(i); }  cb("hello world 1436788315015 "); }
